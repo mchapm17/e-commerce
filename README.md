@@ -2,27 +2,14 @@
 ## The Contents
 
 - [Usage](#usage)
-- [Description](#description)
 - [Technology Used](#technology-used)
-- [Visuals](#visuals)
-- [Final product](#final-product)
+
 
 ## Usage 
-   
+ This backend JavaScript is the setup for an e-commerce site that stores the  information about products and supplies the data set when a specific route is  requested. The database can be updated and have itmes removed due to the routes.
  
 ## Technology Used  
-   
-    
+ - JavaScript 
+ - Schema
 
-## Description
-   
-
-
-
-## Visuals
-![]()
-
-## Final Product
-[]()
-
-[]()
+ [Github Repository](https://github.com/mchapm17/e-commerce)
